@@ -1,0 +1,8 @@
+Observation #1
+- Capomulin appears to be the most effective drug as it was the leader in all observations. It is also the only drug to successfully decrease tumor volume.
+
+Observation #2
+- Infubinol did not seem to have a good tumor response, yet was nearly equally successful in limiting metastatic spread as Capomulin over the 45 days. Despite that, the mice given Infubinol had the worst survival rate. Mice given Ketapril did not fair much better than those given placebo in all observed results.
+
+Observation #3
+The standard error increased over time for all drugs. Though the standard error appeared to be greater over time for the three less effective drugs, Infubinol, Ketapril, Placebo. This increase in standard error over time for Infubinol may be representative of the observation above where it appeared to do well in limiting spread, yet had the worst mortality.
